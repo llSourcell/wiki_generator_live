@@ -17,6 +17,6 @@ I downloaded the data from https://metamind.io/research/the-wikitext-long-term-d
 
 Run the notebook with `jupyter notebook` in command line when in the top level directory.
 
-##Credits 
+## Credits 
 
 The credits for the original codebase go to [kumikokashii](https://github.com/kumikokashii/lstm-text-generator). I've merely created a wrapper to get people started
